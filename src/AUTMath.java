@@ -21,7 +21,7 @@ public class AUTMath {
      */
     public static int subtract(int num1, int num2) {
         int result = num1 - num2;
-        return Math.abs(result);
+        return result;
     }
 
     /**
